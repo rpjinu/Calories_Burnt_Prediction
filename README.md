@@ -1,7 +1,7 @@
 # Calories_Burnt_Prediction
 "Streamlit-based interactive web app for predicting calories burnt during physical activity using machine learning."
 
-<img src="" width=600>
+<img src="https://github.com/rpjinu/Calories_Burnt_Prediction/blob/main/calories_burnt_image.png" width=600>
 
 # Calories Burnt Prediction App
 
